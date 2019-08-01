@@ -1,1 +1,2 @@
-# AWT_Pong-with-dumb-AI
+# AWT_Pong-with-basic-AI
+
